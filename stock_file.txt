@@ -1,0 +1,3 @@
+Lay's Chips::2::100
+Snickers::10::150
+Pringles::1::10000
